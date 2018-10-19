@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">llll</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="depts">
+        <item>Select</item>
+        <item>MCA</item>
+        <item>MBA</item>
+    </string-array>
+
+</resources>
